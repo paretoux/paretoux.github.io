@@ -1,20 +1,20 @@
 # SITE SETTINGS
-title: Petridish                        # Title in top navigation bar (navbar) and <head>
+title: Paretoux                        # Title in top navigation bar (navbar) and <head>
 description: Jekyll theme for research project websites # Site description in <head>
-author: Peter Desmet                    # Used for copyright statement in footer
-# url: "https://peterdesmet.github.io"  # No slash at the end
+author: Ilyass Tabiai                    # Used for copyright statement in footer
+url: "https://paretoux.github.io"  # No slash at the end
 # baseurl: "/petridish"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/about/#links
 
 # SOCIAL PROFILES
-email: your.email@example.com           # Social icon in footer
-twitter_username: peterdesmet           # Social icon in footer
-github_username: peterdesmet            # Social icon in footer
+email: ousted.ilyass@gmail.com          # Social icon in footer
+twitter_username: ilytab           # Social icon in footer
+github_username:             # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
-posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
-tweets_on_home: true                    # Show Twitter feed of twitter_username on homepage
+posts_on_home: 0                        # Show x number of latest posts on homepage, can be 0
+tweets_on_home: false                    # Show Twitter feed of twitter_username on homepage
 archive_permalink: /blog/               # Permalink of page using archive.html layout, required when using post categories
 logo: /assets/img/petri-dish_1f9eb.png  # Logo in navbar, will be displayed with 30px height
 colors:
@@ -29,6 +29,7 @@ plugins:                                # If you build your site on gh-pages, on
   - jekyll-feed
   - jekyll-sitemap
 exclude:
+  - vendor
   - README.md
   - Gemfile
   - Gemfile.lock
