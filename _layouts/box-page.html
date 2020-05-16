@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+    {% include navbar.html %}
+
+    <main>
+      {% include jumbotron-box.html %}
+
+      <div class="container content">
+        <div class="row">
+          <div class="col-md-10 col-lg-8 mx-auto">
+
+        {% include box-description.html %}
+          
+        {{ content | replace: '<table', '<table class="table"' }}
+
+          </div>
+        </div>
+      </div>
+    </main>
+
+    {% include footer.html %}
+  </body>
+</html>

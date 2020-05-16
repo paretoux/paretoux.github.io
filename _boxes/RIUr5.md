@@ -1,0 +1,29 @@
+---
+title: RIU r5
+description: Self-sealed box with extra functionality
+background: /assets/img/boxes/Riur5-2.PNG
+box_image: /assets/img/boxes/RIUr5-1.jpeg
+trialed: "Yes, at University Hospital Limerick"
+author: [Ilyass Tabiai]
+origin_date: 15/04/2020
+creator: Rapid Innovation Unit, University of Limerick, Ireland
+website: "[https://www.aerosolblock.org/feature-designs/riu-r5](https://www.aerosolblock.org/feature-designs/riu-r5)"
+categories: [box]
+layout: box-page
+---
+
+{: .col-md-3 .m-auto}
+![alt text](/assets/img/boxes/RIUr5-1.jpeg)
+{: .rounded .float-right}
+
+Design features :
+* Self-Seal using physiotherapy resistance band
+* Slanted Top for better view (65°)
+* Extra hole for assistant
+* Seals can come apart at the end to increase washability.
+* Viral filter port (for a “standard filter”, need to find this dimension if necessary)
+
+Drawbacks :
+* Removing the elastic band seems difficult, could be easier and disposable. 
+
+

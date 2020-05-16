@@ -1,0 +1,38 @@
+<html>
+    <table>
+        <colgroup>
+        <col width="25%" />
+        <col width="75%" />
+        </colgroup>
+        <thead>
+          <th></th>
+          <th></th>
+        </thead>
+        <tbody>
+          {%- if page.origin_date -%} 
+          <tr>
+            <td markdown="span">Date</td>
+            <td markdown="span">{{ page.origin_date | markdownify | strip_html}}</td>
+          </tr>
+          {%- endif -%}
+          {%- if page.creator -%} 
+          <tr>
+            <td markdown="span">Creator</td>
+            <td markdown="span">{{ page.creator | markdownify | strip_html }}</td>
+          </tr>
+          {%- endif -%}
+          {%- if page.website -%} 
+          <tr>
+            <td markdown="span">Project website</td>
+            <td markdown="span">{{ page.website | markdownify | strip_html  }}</td>
+          </tr>
+          {%- endif -%}
+          {%- if page.trialed -%} 
+          <tr>
+            <td markdown="span">Was it tested ?</td>
+            <td markdown="span">{{ page.trialed | markdownify | strip_html  }}</td>
+          </tr>
+          {%- endif -%}
+        </tbody>
+      </table>
+  </html>

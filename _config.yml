@@ -7,6 +7,13 @@ url: "https://paretoux.github.io"  # No slash at the end
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/about/#links
 
+collections:
+  boxes:
+    directory: "/_boxes/"
+    output: true
+    sort_by: origin_date
+
+    
 # SOCIAL PROFILES
 email: ousted.ilyass@gmail.com          # Social icon in footer
 twitter_username: ilytab           # Social icon in footer
