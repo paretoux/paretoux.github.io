@@ -29,7 +29,6 @@
   
 - name: Félix Groleau
   role: Enthusiastic Learner # Will appear next to name
-  image: /assets/img/team/fa-chev.jpg # Can be external link
   description: > # Can be Markdown
     I am an Undergraduate Student in Mechanical Engineering at Polytechnique Montreal
   email: felix.groleau@polymtl.ca
