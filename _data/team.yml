@@ -13,7 +13,7 @@
   role: Confined Professor # Will appear next to name
   image: https://ilylabs.github.io/assets/images/bio-photo.jpg # Can be external link
   description: > # Can be Markdown
-    I am an Assistant Professor in Mechanical Engineering at the École de Technologie Supérieur in Montréal,
+    I am an Assistant Professor in Mechanical Engineering at the École de Technologie Supérieur in Montréal
   email: ousted.ilyass@gmail.com
   github: ilyasst
   twitter: ilytab
@@ -24,5 +24,15 @@
   description: > # Can be Markdown
     I am an Undergraduate Student in Aerospace Engineering at Polytechnique Montreal
   email: fachevigny@polymtl.ca
+  github:
+
+  twitter: 
+  
+- name: Félix Groleau
+  role: Enthusiastic Learner # Will appear next to name
+  image: /assets/img/team/fa-chev.jpg # Can be external link
+  description: > # Can be Markdown
+    I am an Undergraduate Student in Mechanical Engineering at Polytechnique Montreal
+  email: felix.groleau@polymtl.ca
   github:
   twitter:
