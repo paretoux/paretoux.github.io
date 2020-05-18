@@ -39,7 +39,7 @@
   
 - name: Félix Groleau
   role: Enthusiastic Learner # Will appear next to name
-   image: /assets/img/team/fg.jpg # Can be external link
+  image: /assets/img/team/fg.jpg # Can be external link
   description: > # Can be Markdown
     I just completed my bachelor degree in Mechanical Engineering at Polytechnique Montreal
   email: felix.groleau@polymtl.ca
