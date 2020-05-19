@@ -35,3 +35,11 @@
   email: felix.groleau@polymtl.ca
   github:
   twitter:
+
+  - name: Juliette Letellier-Bao
+  role: Enthusiastic Learner# Will appear next to name
+  image:  /assets/img/team/IMG_5278.jpg # Can be external link
+  description: > # Can be Markdown
+    I am an Undergraduate Student in Biomedical Engineering at Polytechnique Montreal
+  email: juliette.letellier-bao@polymtl.ca
+  
