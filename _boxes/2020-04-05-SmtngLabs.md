@@ -8,7 +8,7 @@ author: [Ilyass Tabiai]
 origin_date: 05/04/2020
 creator: Peter Taylor from Something Labs
 website: "[https://www.somethinglabs.org/](https://www.somethinglabs.org/)"
-categories: [box]
+categories: [With plastic films]
 layout: box-page
 ---
 
