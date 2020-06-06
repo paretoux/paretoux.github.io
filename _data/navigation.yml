@@ -2,8 +2,6 @@
 
 - text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
   href: /
-- text: About
-  href: /about/
 - text: Boxes
   href: /boxes/
 - text: News
@@ -12,4 +10,6 @@
   href: /team/
 - text: Biblio
   href: /biblio/
+- text: About
+  href: /about/
 

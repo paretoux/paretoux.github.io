@@ -18,7 +18,7 @@
         {% if post.description %}
           {{ post.description | markdownify | truncatewords: 50 }}
         {% else %}
-          {{ post.excerpt | truncatewords: 20 }}
+          {{ post.excerpt | truncatewords: 50 }}
         {% endif %}
       </div>
     </div>
