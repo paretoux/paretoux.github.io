@@ -15,6 +15,7 @@ layout: box-page
 {: .col-md-3 .m-auto}
 ![alt text](/assets/img/boxes/SmtngLabs-1.PNG)
 {: .rounded .float-right}
+<br/>
 
 Design features :
 * Clear vinyl sheet cut for the doctor comfort.
