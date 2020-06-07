@@ -6,7 +6,7 @@ permalink: /about/
 ---
 
 
-**Tracheal intubation** is one of the **highest-risk moments for COVID-19 transmission** to healthcare workers and other patients. The current strategy in Canadian hospitals to minimise the risk to healthcare workers during these procedures is to shield the workers from droplets and aerosols by having them wear Personal Protective Equipment (PPE). More recently (Feb/March 2020), **"aerosol boxes"** started being manufactured (sometimes at home!) and used by anesthesiologist world-wide to minimize aerosol spread during tracheal intubation and extubation.
+**Tracheal intubation** has been singled out as a COVID-19 transmission risk procedure. The reason for this being it classifies as an **aerosol generating procedure (AGP)**. Public health entities recommend that the highest precautions be taken while performing AGPs, such as having the wear Personal Protective Equipment (PPE)to block the transmission routes of the accute respiratory virus. Recently imagined **"aerosol boxes"** act as extra PPE - along side gowns, gloves, masks, facial protection - blocking the virus transmission at the source. They are meant to be placed over the COVID infected patient's head, where the virus might me expelled as droplets or droplet nuclei.
 {: style="text-align: justify;"}
 
 {% include image-gallery.html folder="/assets/img/about-gallery/" %}
