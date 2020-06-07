@@ -6,7 +6,7 @@ permalink: /about/
 ---
 
 
-**Tracheal intubation** has been singled out as a COVID-19 transmission risk procedure. The reason for this being it classifies as an **aerosol generating procedure (AGP)**. Public health entities recommend that the highest precautions be taken while performing AGPs, such as having the wear Personal Protective Equipment (PPE)to block the transmission routes of the accute respiratory virus. Recently imagined **"aerosol boxes"** act as extra PPE - along side gowns, gloves, masks, facial protection - blocking the virus transmission at the source. They are meant to be placed over the COVID infected patient's head, where the virus might me expelled as droplets or droplet nuclei.
+**Tracheal intubation** has been singled out as a COVID-19 transmission risk procedure. The reason for this being it classifies as an **aerosol generating procedure (AGP)**. Public health entities recommend that the highest precautions be taken while performing AGPs, such as having the healthcare workers wear Personal Protective Equipment (PPE)to block the transmission routes of the accute respiratory virus. Recently imagined **"aerosol boxes"** act as extra PPE - along side gowns, gloves, masks, facial protection - blocking the virus transmission at the source. They are meant to be placed over the COVID infected patient's head, where the virus might me expelled as droplets or droplet nuclei.
 {: style="text-align: justify;"}
 
 {% include image-gallery.html folder="/assets/img/about-gallery/" %}
