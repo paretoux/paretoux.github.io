@@ -1,5 +1,5 @@
 ---
-title: Tracheal intubation aerosol boxes a State-of-the-art
+title: Tracheal Intubation Aerosol Boxes a State-of-the-art
 description: Our team has been working on a review of the different tracheal intubation aerosol box designs that have been made public since Dr. Hsien Yung Lai’s design, assessing the latest features and newest ideas. This state-of-the-art, which we have been working on during the last few weeks, aims to lay a solid foundation for our project.
 background: assets/img/splash/plume.jpg
 author: [Ilyass Tabiai]
