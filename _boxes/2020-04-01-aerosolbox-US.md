@@ -15,15 +15,21 @@ layout: box-page
 {: .col-md-3 .m-auto}
 ![alt text](/assets/img/boxes/aerosolboxus-2.png)
 {: .rounded .float-right}
+<br/>
 
 Design features :
 * Slide slot for ventilation tube
-* Asymetrical face panel for ergonomic placement
+* Asymetrical face panel for ergonomic placement of arm holes
 * Stackable
+* Shoulder recess for closer access and better protection
+* Slanted top
 * Aspect of sustainability envisaged
+* Stackable
 * Two circular openings ⌀127mm
 
 
 Drawbacks :
 * No aerosol containment 
 * No side access for assistant
+
+

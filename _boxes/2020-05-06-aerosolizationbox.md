@@ -15,6 +15,7 @@ layout: box-page
 {: .col-md-3 .m-auto}
 ![alt text](/assets/img/boxes/aerosolization.jpg)
 {: .rounded .float-right}
+<br/>
 
 Design features :
 * 
