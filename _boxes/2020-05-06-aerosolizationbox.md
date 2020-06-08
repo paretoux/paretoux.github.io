@@ -1,8 +1,8 @@
 ---
 title: Aerosolization box
 description: Modifications to the original design to adress each of its problems
-background: /assets/img/boxes/aerosolization.jpg
-box_image: /assets/img/boxes/aerosolization.jpg
+background: /assets/img/boxes/aerosolization1.jpg
+box_image: /assets/img/boxes/aerosolization1.jpg
 trialed: "Yes, UC San Diego Health"
 author: [Ilyass Tabiai]
 origin_date: 06/05/2020
@@ -14,7 +14,7 @@ layout: box-page
 ---
 
 {: .col-md-3 .m-auto}
-![alt text](/assets/img/boxes/aerosolization.jpg)
+![alt text](/assets/img/boxes/aerosolization1.jpg)
 {: .rounded .float-right}
 <br />
 
