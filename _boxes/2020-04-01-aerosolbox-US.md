@@ -15,7 +15,7 @@ layout: box-page
 {: .col-md-3 .m-auto}
 ![alt text](/assets/img/boxes/aerosolboxus-2.png)
 {: .rounded .float-right}
-<br/>
+<br />
 
 Design features :
 * Slide slot for ventilation tube
