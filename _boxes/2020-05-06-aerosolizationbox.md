@@ -6,8 +6,7 @@ box_image: /assets/img/boxes/aerosolization1.jpg
 trialed: "Yes, UC San Diego Health"
 author: [Ilyass Tabiai]
 origin_date: 06/05/2020
-creator: Alexander M. Girgis, M.D.
-Department of Anesthesiology, Department of Cardiology, Department of Mechanical and Aerospace Engineering, University of California San Diego
+creator: Alexander M. Girgis, M.D. Department of Anesthesiology, Department of Cardiology, Department of Mechanical and Aerospace Engineering, University of California San Diego
 website: "[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7201230/#bib0003](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7201230/#bib0003)"
 categories: [Added features]
 layout: box-page
