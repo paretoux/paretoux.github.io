@@ -1,0 +1,20 @@
+---
+layout: base
+description: Template for a list of posts, with full width
+---
+<div class="row">
+  <div class="col">
+
+    {{ content }}
+  
+  </div>
+</div>
+
+<div class="row cards">
+
+  {% for post in site.prototypes %}
+  <div class="col-md-6 col-lg-4">
+    {% include prototypes.html %}
+  </div>
+  {% endfor %}
+</div>
