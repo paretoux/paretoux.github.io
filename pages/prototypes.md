@@ -1,5 +1,5 @@
 ---
-layout: boxes
+layout: prototypes
 title: Our Prototypes
 description: Advancement of the project - conception and fabrication of our intubation boxes
 permalink: /prototypes/
