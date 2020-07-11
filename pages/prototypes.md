@@ -26,6 +26,8 @@ For all models, sealing at the torso of the patient is planned to be achieved wi
 
 {% include image_gallery.html folder="/assets/img/prototypes/sealingtorso" %}
 
+test
+
 As for access to the patient different approaches are being studied. The preferred one up until now is that of an extruded circular hole in the plastic sheet. This outgrow has a diameter matching that of a glove’s long sleeve. The sleeve is sealed on the plastic cylinder with a hose clamp. The inside of the box is completely isolated from the doctors hands which enter the box via the glove. The sleeve of the gloves being very long, the mobility of the doctors in the box is not diminished. In the event that the access needs to be made through a plastic film (i.e. tent model) then the same kind of glove is fused on the film (plastic to plastic). 
 
 All the prototypes are still in the testing phase and we predict that changes and modification will need to be made once we receive feedback from doctors and advance further into the development phases. Updates will be added when new iterations of the prototypes are made, and as some ideas are discarded or new ones are adopted.
