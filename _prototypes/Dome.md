@@ -1,7 +1,7 @@
 ---
 title: Dome model
-background: /assets/img/prototypes/.jpg
-box_image: /assets/img/prototypes/.jpg
+background: /assets/img/prototypes/dome.jpg
+box_image: /assets/img/prototypes/dome.jpg
 layout: box-page
 ---
 
