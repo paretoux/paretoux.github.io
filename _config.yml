@@ -12,6 +12,10 @@ collections:
     directory: "/_boxes/"
     output: true
     sort_by: origin_date
+  prototypes:
+    directory: "/_prototypes/"
+    output: true
+    sort_by: origin_date
 
     
 # SOCIAL PROFILES

@@ -1,7 +1,7 @@
 ---
 title: Tunnel shape box
-background: /assets/img/prototypes/bendPVCsheet.jpg
-box_image: /assets/img/prototypes/bendPVCsheet.jpg
+background: /assets/img/prototypes/bendPVCsheet.JPG
+box_image: /assets/img/prototypes/bendPVCsheet.JPG
 layout: box-page
 ---
 
