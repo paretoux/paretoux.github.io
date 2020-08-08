@@ -5,9 +5,9 @@ box_image: /assets/img/prototypes/tunnelprototype.jpg
 layout: box-page
 ---
 
-Inspired by the [St George's COVID shield](https://paretoux.github.io/boxes/2020-05-11-covidshield.html), we designed the tunnel model with the a bendable thin polycarbonate sheet and the same base from our classic box model. The tunnel model has the following advantages:
+Inspired by the [St George's COVID shield](https://paretoux.github.io/boxes/2020-05-11-covidshield.html), we designed the tunnel shape box with the a bendable thin polycarbonate sheet and the same base from our classic box model. The tunnel shape box has the following advantages:
 
-* Quick assembly with no gluing
+* Quick assembly with no need of gluing
 * Easy to store and ship with maximum space efficiency
 * Better aerodynamics with no "dead zones"
 * Easy disinfection with no corners
@@ -16,13 +16,13 @@ Inspired by the [St George's COVID shield](https://paretoux.github.io/boxes/2020
 
 {% include image_gallery.html folder="/assets/img/prototypes/tunnelgallery/boxinspiration" %}
 
-Since the [St George's COVID shield](https://paretoux.github.io/boxes/2020-05-11-covidshield.html) was not designed for tracheal intubation, there is no glove ports on the front panel. In order to keep the advantates of quick assembly, easy to store and ship, east disinfection which are brought by the single bendable flat plastic sheet, we designed a soft front panel with glove ports, with the inspiration from ["cuddle curtains"](https://www.cnbc.com/2020/07/02/cuddle-curtains-are-going-global-amid-the-coronavirus-pandemic.html) and the [smeirigid boxes](https://paretoux.github.io/boxes/2020-05-08-Covidbox.html). The soft front panel out of transparent plastic film allows the doctor to have very large maneuver.
+Since the [St George's COVID shield](https://paretoux.github.io/boxes/2020-05-11-covidshield.html) was not designed for tracheal intubation, there were no glove ports on the front panel. In order to keep the advantates of quick assembly, easy to store and ship, easy disinfection which are brought by the single bendable flat plastic sheet, we designed a soft front panel integrated with gloves. The inspiration came from from the ["cuddle curtains"](https://www.cnbc.com/2020/07/02/cuddle-curtains-are-going-global-amid-the-coronavirus-pandemic.html) and the [smeirigid boxes](https://paretoux.github.io/boxes/2020-05-08-Covidbox.html). The soft front panel made from transparent plastic film allows the doctor to have very large maneuver.
 
 {% include image_gallery.html folder="/assets/img/prototypes/tunnelgallery/frontpanelinspiration" %}
 
 ## How to use this box
 
-1. Tie the base around the bed;
+1. Use the quick connect belts to tie the base around the bed;
 2. Put gloves around the glove adapters on the flat plastic sheet;
 3. Bend the plastic sheet and insert both edges into the rubber groove in the base;
 4. Put the soft front panel around the tunnel and base;
