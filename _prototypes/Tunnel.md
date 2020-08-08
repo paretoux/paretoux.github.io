@@ -5,7 +5,7 @@ box_image: /assets/img/prototypes/tunnelprototype.jpg
 layout: box-page
 ---
 
-Inspired by the [St George's COVID shield](https://paretoux.github.io/boxes/2020-05-11-covidshield.html), we designed the tunnel shape box with the a bendable thin polycarbonate sheet and the same base from our classic box model. The tunnel shape box has the following advantages:
+Inspired by the [St George's COVID shield](https://paretoux.github.io/boxes/2020-05-11-covidshield.html), we designed the tunnel shape box with a bendable thin polycarbonate sheet and the same base from our classic box model. The tunnel shape box has the following advantages:
 
 * Quick assembly with no need of gluing
 * Easy to store and ship with maximum space efficiency
