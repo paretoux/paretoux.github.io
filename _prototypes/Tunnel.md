@@ -36,6 +36,6 @@ The great advantage of this model is that it can be shaped from a flat sheet int
 
 The aspiration unit is placed on the top of the curve vis-a-vis the patient’s respiratory exits. A two parts adpater with thread connections was 3D printed with PLA. 
 
-Both ends, front and back panel, were closed off with a plastic film. For access to the patient, plastic gloves with long sleeves were melted onto hole cut outs for a perfect seal by an electronic soldering gun.
+Both ends, front and back panel, were closed off with a plastic film. For access to the patient, plastic gloves with long sleeves were melted onto hole cut outs for a perfect seal by an electronic soldering gun. A closed rubber band was added to the edge of the plastic film using the same technique, with an appropriate length providing enough force once tied to the tunnel. Small pins were glued on the edge of the tunnel sheet to avoid the detaching of the plastic film.
 
 {% include image_gallery.html folder="/assets/img/prototypes/tunnelgallery/prototypeimages" %}
