@@ -1,7 +1,7 @@
 ---
 title: Tunnel shape box
-background: /assets/img/prototypes/tunnelprototype.JPG
-box_image: /assets/img/prototypes/tunnelprototype.JPG
+background: /assets/img/prototypes/tunnelprototype.jpg
+box_image: /assets/img/prototypes/tunnelprototype.jpg
 layout: box-page
 ---
 
