@@ -1,14 +1,14 @@
 ---
 title: Tunnel shape box
-background: /assets/img/prototypes/bendPVCsheet.JPG
-box_image: /assets/img/prototypes/bendPVCsheet.JPG
+background: /assets/img/prototypes/tunnelprototype.JPG
+box_image: /assets/img/prototypes/tunnelprototype.JPG
 layout: box-page
 ---
 
 Inspired by the [St George's COVID shield](https://paretoux.github.io/boxes/2020-05-11-covidshield.html), we designed the tunnel model with the a bendable thin polycarbonate sheet and the same base from our classic box model. The tunnel model has the following advantages:
 
 * Quick assembly with no gluing
-* Easy to store and ship with mimimum space waste
+* Easy to store and ship with maximum space efficiency
 * Better aerodynamics with no "dead zones"
 * Easy disinfection with no corners
 * Good seal by rubber groove
