@@ -3,7 +3,6 @@ title: Classic cube box
 description: Developed in collaboration with Santé Libre
 background: /assets/img/prototypes/santelibrebox.JPG
 box_image: /assets/img/prototypes/santelibrebox.JPG
-website: "https://santelibre.ca/en_CA/"
 layout: box-page
 ---
 
