@@ -2,7 +2,7 @@
 
 - name: Frédérick Gosselin
   role: Captain Professor # Will appear next to name
-  image: https://i2.wp.com/fgosselin.meca.polymtl.ca/wp-content/uploads/2015/07/IMG_8669.jpg # Can be external link
+  image: /assets/img/team/FGosselin.jpg # Can be external link
   description: > # Can be Markdown
     I am an Associate Professor in the Department of Mechanical Engineering at École Polytechnique de Montréal
   email: frederick.gosselin@polymtl.ca
