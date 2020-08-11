@@ -52,7 +52,7 @@ Here is the prototype simulated with various types of rounded corners:
 {% include image-gallery.html folder="/assets/img/prototypes/simulations/cube_img" %}
 _Various types of rounded corners tested to better airflow in the classic box model_
 
-The efficiency of each of these tested classic box models are presented in the graphics below. The first draft shows the evolution of the percentage of particles captured in time. The higher the percentage and the more abrupt the cuvre the better. The second graph tells us by how many percent the model is more efficient than the orginal classic box model with no rounded corners.
+The efficiency of each of these tested classic box models are presented in the graphs below. The first graph shows the evolution of the percentage of particles captured in time. We aim to reach higher the percentage of particle capture and this as quickly as possible. The second graph tells us by how many percent the model is more efficient than the orginal classic box model with no rounded corners.
 
 {% include image-gallery.html folder="/assets/img/prototypes/simulations/cube_res" %}
 _Particle capture efficiency resultats for the various types of rounded corners_
