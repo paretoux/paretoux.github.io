@@ -43,3 +43,12 @@ Both ends, front and back panel, were closed off with a plastic film. For access
 {% include image_gallery.html folder="/assets/img/prototypes/tunnelgallery/prototypeimages" %}
 
 ## Particle capture efficiency simulation
+
+The tunnel model allows better ventilation inside the intubation box. First of all because it presents no corners, sharp edges where viral particles might accumulate and get stuck. And also because dead zones present in the classic box model are elimanated in the tunnel, dimishing the total volume and thus improving the flowrate of the aspiration unit and the evacuation of the particles inside the box. The following mesh shape was used to simulate the airflow in the tunnel model and the ventilation efficency of this model is shown in **blue** on the graph.
+
+{% include image-gallery.html folder="/assets/img/prototypes/simulations/tunnel" %}
+_Mesh used to simulate the airflow of particles in the tunnel model and results of the efficiency of this model in terms of its ventilation quality_
+
+## Doctor's impressions
+
+The tunnel prototype is not best suited for the intubation of COVID-19 patients. The ergonomics involved in the intubation process don't have enough room in a tunnel which is lacking the space that procurs the classic box with its higher corners. 

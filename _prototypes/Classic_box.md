@@ -55,4 +55,10 @@ _Various types of rounded corners tested to better airflow in the classic box mo
 The efficiency of each of these tested classic box models are presented in the graphs below. The first graph shows the evolution of the percentage of particles captured in time. We aim to reach higher the percentage of particle capture and this as quickly as possible. The second graph tells us by how many percent the model is more efficient than the orginal classic box model with no rounded corners.
 
 {% include image-gallery.html folder="/assets/img/prototypes/simulations/cube_res" %}
-_Particle capture efficiency resultats for the various types of rounded corners_
+_Particle capture efficiency results for the different types of rounded corners_
+
+The efficiency of the octopus ventilation system with the aspiration unit separated into 5 units has also been validated with simulations. The results shows that by separating the flowrate into smaller parts to cover many units we are diminishing the efficiency of the ventilation system. It is better to have one aspiration unit with maximum flowrate to capture rapidly the virus particles.
+
+{% include image-gallery.html folder="/assets/img/prototypes/simulations/cube_vacuum" %}
+
+We are currently doing more simulations to investigate the idea of placing oneway valves in the corners of the classical box. We are hoping this way to break the recirculation zones that can form in the corners of the box. More information to come.
