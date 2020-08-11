@@ -49,6 +49,6 @@ The tunnel model allows better ventilation inside the intubation box. First of a
 {% include image-gallery.html folder="/assets/img/prototypes/simulations/tunnel" %}
 _Mesh used to simulate the airflow of particles in the tunnel model and results of the efficiency of this model in terms of its ventilation quality_
 
-## Doctor's impressions
+## Doctors' impressions
 
 The tunnel prototype is not best suited for the intubation of COVID-19 patients. The ergonomics involved in the intubation process don't have enough room in a tunnel which is lacking the space that procurs the classic box with its higher corners. 
