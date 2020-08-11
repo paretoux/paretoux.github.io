@@ -17,6 +17,10 @@ Based on the literature review, we are currently working on four different box d
 
 All the prototypes are still in the testing phase and we expect that changes and modification will be made once we receive feedbacks from doctors.
 
+In addition, the particle capture efficiency of the different box designs is estimated. To evaluate the airflow through the box models, the simulation software COMSOL Multiphysics was used by our team. Many variables can be modified to optimize the airflow inside the intubation box and thus the capture of the viral particles in a fixed time slot. Rounder corners, smaller box volume, higher flowrate, positionnement of the aspiration unit, etc. are tricks than can be used to capture faster and in greater numbers the particles circulating inside the box. 
+
+Of course these simulations are all approximations. By comparing different models using always the same boundery conditions our team was able to have a fairly good estimation of which box models present the most efficient particle capture. The respective simulations will be showcased with each prototype presented below.
+
 ## More details about our prototypes
 
 <!-- Content here will show up above the prototypes -->
