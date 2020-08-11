@@ -42,3 +42,6 @@ The octopus system was assembled by PVC tubes and adapters. The ventilation unit
 The flexible plastic drape was made by sewing a closed rubber band around the edge of the transprent plastic film. The length of the rubber band fits well around the box and the patient torso, ensuring a good seal.
 
 {% include image_gallery.html folder="/assets/img/prototypes/cubehowtomake" %}
+
+## Particle capture efficiency simulation
+
