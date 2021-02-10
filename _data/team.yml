@@ -53,3 +53,9 @@
     I am an Undergraduate Student in Biomedical Engineering at Polytechnique Montreal
   email: juliette.letellier-bao@polymtl.ca
   
+- name: Asher Amos Benchimol
+  role: Enthusiastic Learner # Will appear next to name
+  image:  /assets/img/team/Asher.jpg # Can be external link
+  description: > # Can be Markdown
+    I just completed my master degree in Chemical Engineering at Polytechnique Montreal
+  email: asher-amos.benchimol@polymtl.ca
