@@ -12,7 +12,7 @@ permalink: /
 Our project aims to design a **novel aerosol box model** which can act as a **replacement for PPE**. For this to be feasible, the box model will need to garanty aerosol containement. We are collaborating with Hôpital Maisonneuve-Rosemont in Montréal to ensure that our model will be well suited for hospital environnment, and that it will be practical, and easy of use for the doctors performing the procedures. 
 
 Please find the lastest cube box model in the video below.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1wCNkO-IgIw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="830" height="467" src="https://www.youtube.com/embed/1wCNkO-IgIw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Visit our website** for the latest updates on the advancement of our project. 
 {: style="text-align: justify;"}
