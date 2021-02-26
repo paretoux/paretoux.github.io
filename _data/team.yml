@@ -59,3 +59,10 @@
   description: > # Can be Markdown
     I just completed my master degree in Chemical Engineering at Polytechnique Montreal
   email: asher-amos.benchimol@polymtl.ca
+
+- name: William Lépine
+  role: Enthusiastic Learner # Will appear next to name
+  image:  /assets/img/team/AsherAmos.jpg # Can be external link
+  description: > # Can be Markdown
+    I just completed my bachelor degree in Mechanical Engineering at Polytechnique Montreal
+  email: william.lepine@polymtl.ca
